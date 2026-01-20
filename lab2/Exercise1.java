@@ -1,6 +1,6 @@
-package Lab2;
+package lab2;
 import java.util.Scanner;
-public class exercise1 {
+public class Exercise1 {
 
 	public static void main(String[] args) {
 		//A Taxi service offers a new service based on travel distance. Write a Java
