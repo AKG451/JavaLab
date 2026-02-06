@@ -1,5 +1,4 @@
 package lab1;
-import java.util.Scanner;
 import java.util.Arrays;
 public class Exercise4 {
 	/*Write a Java program to rotate the elements of an array to the right/left by a given
